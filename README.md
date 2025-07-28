@@ -1,2 +1,2 @@
 # youtubedown
-youtubedown is created for install youtube videos or audios.
+Install YouTube videos or audios.
